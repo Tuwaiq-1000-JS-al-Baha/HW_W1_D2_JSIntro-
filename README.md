@@ -1,4 +1,4 @@
-# HW_W1_D2_JSIntro 
+# HW_Week1_Day2_JSIntro 
 
 ## The Age Calculator
 
